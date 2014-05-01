@@ -1,4 +1,5 @@
-eburhan Upload class v1.6
+eBurhan Upload Class
+--------------------------------
 
 Sınıf adı : eburhan Upload class
 
